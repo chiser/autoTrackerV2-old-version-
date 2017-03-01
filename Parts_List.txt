@@ -1,0 +1,22 @@
+Parts list:
+-2" Square RG850 Colored Glass Filter, 850 nm Long pass Thorlabs
+
+-For the box with roof:
+
+             -Acrylic. Also a bit of transparent acrylic for the filter holder that goes in front of the camera. The layouts for laser cutting are provided in *.ai files in this repository
+
+             -Rails: 4x130-150cm and 1x30cm for holding the projector
+
+             -Thornlabs bolts and nuts
+
+-The regular IR illumination panel in the lab custom made from Knema LLC.
+
+-Piece of wood: something like 35x40x5cm should work.
+
+-Camera: Pointgrey Firefly MV
+
+-Projector Optoma 
+
+-Diffuser: Sanded transparent acrylic
+
+-Mazes´s rig
